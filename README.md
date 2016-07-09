@@ -19,7 +19,7 @@
 ```
 
 ## 附赠：良心™计算器
-`LXcalc.py`
+`LXcalc.pyw`
 
 ![screenshot](https://cloud.githubusercontent.com/assets/6646473/16622426/c2536d70-43cc-11e6-9440-801c87ce3819.png)
 
